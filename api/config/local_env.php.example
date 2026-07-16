@@ -1,0 +1,12 @@
+<?php
+declare(strict_types=1);
+
+// Copy this file to `local_env.php` and replace the placeholder values with
+// your real credentials. `local_env.php` is gitignored — never commit secrets.
+//
+// On Railway / production, do NOT use this file. Set the env vars directly
+// in the Railway dashboard (Variables tab) so the host injects them.
+
+putenv('TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
+putenv('TWILIO_AUTH_TOKEN=replace-with-your-rotated-auth-token');
+putenv('TWILIO_VERIFY_SERVICE_SID=VAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
