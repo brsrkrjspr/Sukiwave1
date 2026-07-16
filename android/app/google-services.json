@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404219718800",
+    "project_id": "suki-ef931",
+    "storage_bucket": "suki-ef931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404219718800:android:b726205f942d67c445bc15",
+        "android_client_info": {
+          "package_name": "Suki.wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVIXEVV1OEDNUPw86bU_FvPL_H4zKU3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

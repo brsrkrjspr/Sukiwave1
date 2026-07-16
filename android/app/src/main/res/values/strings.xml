@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suki Wave</string>
+    <string name="title_activity_main">Suki Wave</string>
+    <string name="package_name">Suki.wave</string>
+    <!-- Deep-link scheme; avoid dots (invalid for URI schemes). -->
+    <string name="custom_url_scheme">sukiwave</string>
+    <!-- Facebook Login (Meta App settings → Basic / Advanced). -->
+    <string name="facebook_app_id">2465483683890556</string>
+    <!-- Meta Developer → App settings → Advanced → Client token -->
+    <string name="facebook_client_token">REPLACE_WITH_META_CLIENT_TOKEN</string>
+    <string name="fb_login_protocol_scheme">fb2465483683890556</string>
+</resources>
